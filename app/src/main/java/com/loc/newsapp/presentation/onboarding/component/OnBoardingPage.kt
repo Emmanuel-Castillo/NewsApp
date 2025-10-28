@@ -19,8 +19,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import com.loc.newsapp.R
 import com.loc.newsapp.presentation.onboarding.Page
-import com.loc.newsapp.presentation.onboarding.component.Dimens.MediumPadding1
-import com.loc.newsapp.presentation.onboarding.component.Dimens.MediumPadding2
+import com.loc.newsapp.util.Dimens.MediumPadding1
+import com.loc.newsapp.util.Dimens.MediumPadding2
 import com.loc.newsapp.presentation.onboarding.pages
 import com.loc.newsapp.ui.theme.NewsAppTheme
 

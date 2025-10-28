@@ -28,9 +28,8 @@ import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.loc.newsapp.R
-import com.loc.newsapp.presentation.onboarding.component.Dimens.IconSize
+import com.loc.newsapp.util.Dimens.IconSize
 import com.loc.newsapp.ui.theme.NewsAppTheme
-import kotlin.math.sin
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

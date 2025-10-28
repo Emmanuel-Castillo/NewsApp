@@ -25,9 +25,9 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.loc.newsapp.R
-import com.loc.newsapp.presentation.onboarding.component.Dimens.ArticleCardSize
-import com.loc.newsapp.presentation.onboarding.component.Dimens.ExtraSmallPadding
-import com.loc.newsapp.presentation.onboarding.component.Dimens.MediumPadding1
+import com.loc.newsapp.util.Dimens.ArticleCardSize
+import com.loc.newsapp.util.Dimens.ExtraSmallPadding
+import com.loc.newsapp.util.Dimens.MediumPadding1
 import com.loc.newsapp.ui.theme.NewsAppTheme
 
 fun Modifier.shimmerEffect(): Modifier = this then composed {
